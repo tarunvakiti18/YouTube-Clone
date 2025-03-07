@@ -1,0 +1,63 @@
+.sidebar{
+  position:fixed; 
+  left:0;
+  top:60px;
+  bottom:0;
+  width: 80px;
+  justify-content: space-between;
+
+ } 
+
+ .sidebar-link{
+ 
+  height: 80px;
+  margin-bottom: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+ }
+ .sidebar-link:hover{
+  background-color: rgb(240, 240, 240);
+ }
+
+ .sidebar-link img{
+  height: 30px;
+ }
+
+ .sidebar-link div{
+  font-family: Roboto,Arial;
+  font-size: 11px;
+  
+
+ }
+ 
+ /* .home-icon{
+   height: 40px;
+   display: block;
+ }
+ .explore-icon{
+   height: 40px;
+   display: block;
+ }
+ .subcription-ion{
+   height: 40px;
+   display: block;
+ }
+ 
+ .originals-icon{
+   height: 40px;
+   display: block;
+ }
+ 
+ .yt-music-icon{
+   height: 40px;
+    display: block;
+ 
+ }
+ 
+ .library-icon{
+   height: 40px;
+   display: block;
+ } */
